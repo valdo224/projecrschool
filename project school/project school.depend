@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733522084 source:c:\users\schneider\documents\c programming\project school\main.c
+	<stdio.h>
+	<string.h>
+
